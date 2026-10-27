@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Buban
+Student ID: TUPM-26-1901
+Seed Digit: 1
+ID Sum: 19
+Verification Value: 96
+Dataset Sample Size: 69
+Valid Records: 0
+Average Global Active Power: 0.000
+JSON File: Buban_TUPM-26-1901_record.json
+Backup File: Buban_TUPM-26-1901_record.csv
